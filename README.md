@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parsuram</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*Zzz7X5ieqllFB96rVP6p2w.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mparsuram99&label=Profile%20views&color=0e75b6&style=flat" alt="mparsuram99" /> </p>
 
