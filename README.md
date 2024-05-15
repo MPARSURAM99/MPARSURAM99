@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **Amazon-Clone-Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MPARSURAM99?tab=repositories](https://github.com/MPARSURAM99?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/MPARSURAM99?tab=repositories">Here</a>
 
 - 💬 Ask me about **Algorithms for web development & animations**
 
