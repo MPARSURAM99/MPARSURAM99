@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mparsuram99" target="blank"><img src="https://img.shields.io/twitter/follow/mparsuram99?logo=twitter&style=for-the-badge" alt="mparsuram99" /></a> </p>
 
-- 🌱 I’m currently exploring **Web development tools & Technologies**
+- 🌱 I’m currently working on **Amazon-Clone-Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MPARSURAM99?tab=repositories](https://github.com/MPARSURAM99?tab=repositories)
 
