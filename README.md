@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/MPARSURAM99?tab=repositories">Here</a>
 
-- 💬 Ask me about **Algorithms for web development & animations**
+- 💬 Ask me about **Innovative Web development**
 
-- 📫 How to reach me **mparsuram99@gmail.com**
+- 📫 Reach me at **mparsuram99@gmail.com**
 
 - ⚡ Fun fact **I don't like to remember!!!**
 
