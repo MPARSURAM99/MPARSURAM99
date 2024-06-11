@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parsuram</h1>
 <h3 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓯𝓾𝓵𝓵-𝓼𝓽𝓪𝓬𝓴 𝔀𝓮𝓫 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽𝓼 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪</h3>
-<img align="right" alt="coding" width="400" src="![codingimg](https://github.com/MPARSURAM99/MPARSURAM99/assets/123405783/d9616c5f-f4c5-44c8-9064-b50112218bda)">
+<img align="right" alt="coding" width="400" src="https://github.com/MPARSURAM99/MPARSURAM99/issues/2#issue-2347342583">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mparsuram99&label=Profile%20views&color=0e75b6&style=flat" alt="mparsuram99" /> </p>
 
