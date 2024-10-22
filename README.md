@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parsuram</h1>
 <h3 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓯𝓾𝓵𝓵-𝓼𝓽𝓪𝓬𝓴 𝔀𝓮𝓫 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽𝓼 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪</h3>
-<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/123405783/338750822-d9616c5f-f4c5-44c8-9064-b50112218bda.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgxNDIyNzgsIm5iZiI6MTcxODE0MTk3OCwicGF0aCI6Ii8xMjM0MDU3ODMvMzM4NzUwODIyLWQ5NjE2YzVmLWY0YzUtNDRjOC05MDY0LWI1MDExMjIxOGJkYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxMVQyMTM5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzNjODI2ZTBjMjg1NjVmOGQ4YjlmYTVjNDY5MmRlN2RiZmVmMDRhOGExMDVjMzE2OWNhZTkzNDJiNWY3NjY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ldOQLmIPQPwaF6QwnAxSq6oPrkBM40AAeFE6HBexz8A">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=626&ext=jpg&ga=GA1.1.174626732.1715674878&semt=ais_hybrid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mparsuram99&label=Profile%20views&color=0e75b6&style=flat" alt="mparsuram99" /> </p>
 
